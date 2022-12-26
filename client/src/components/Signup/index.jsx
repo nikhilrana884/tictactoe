@@ -40,8 +40,8 @@ const Signup = () => {
 		<div className={styles.signup_container}>
 			<div className={styles.signup_form_container}>
 				<div className={styles.left}>
-					<h2>async</h2>
-					<h2>tic tac toe</h2>
+					<h1>Async</h1>
+					<h1>Tic Tac Toe</h1>
 					<Link to="/login">
 						<button type="button" className={styles.white_btn}>
 							Log In
